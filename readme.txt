@@ -4,9 +4,9 @@ Donate link:
 Tags:
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Requires at least: 3.5
-Tested up to: 3.5
-Stable tag: 0.1
+Requires at least: 4.2
+Tested up to: 4.2
+Stable tag: 0.2
 
 Display the amount of all the published products
 
@@ -37,3 +37,6 @@ None for now
 
 = 0.1 =
 - Initial Revision
+
+= 0.2 =
+- Make plugin compatible to new Wordpress version
