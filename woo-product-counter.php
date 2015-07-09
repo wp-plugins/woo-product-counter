@@ -2,7 +2,7 @@
 /*
    Plugin Name: Woo Product Counter
    Plugin URI: http://wordpress.org/extend/plugins/woo-product-counter/
-   Version: 0.1
+   Version: 0.2
    Author: Johnny Dunhin
    Description: Display the amount of all the published products
    Text Domain: woo-product-counter
